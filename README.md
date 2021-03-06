@@ -1,4 +1,4 @@
-# ElkPlayer Album Releases
+# Elk Player Album Releases
 
 | Album        | Video           | Comments | Link    |
 | ---------- |:-------------:| ------------ |-----:|
