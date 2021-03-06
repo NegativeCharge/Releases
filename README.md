@@ -3,7 +3,7 @@
 | Album        | Video           | Comments | Link    |
 | ---------- |:-------------:| ------------ |-----:|
 | BBC Music - Disc 1 | [![Galaforce](http://i3.ytimg.com/vi/BhKBp65l5dA/hqdefault.jpg)](https://m.youtube.com/watch?v=BhKBp65l5dA) [![Firetrack](http://i3.ytimg.com/vi/V9yYL-m8gG8/hqdefault.jpg)](https://m.youtube.com/watch?v=V9yYL-m8gG8) | Includes conversions of the BBC Micro Galaforce (Kevin Edwards - @KevEdwardsRetro) Music by Martin Galway, and Firetrack Music by Nick Pelling (@nickpelling) | N/A |
-| Beeb Tracker Volume 2 | | Conversion of the [BitShifters](https://bitshifters.github.io/posts/prods/bs-beebtracker2.html) Beeb Tracker Volume 2 compilation to the Acorn Electron | N/A |
+| Beeb Tracker Volume 2 | [![Intro](http://i3.ytimg.com/vi/eOpXjlw-6CI/hqdefault.jpg)](https://youtu.be/eOpXjlw-6CI)| Conversion of the [BitShifters](https://bitshifters.github.io/posts/prods/bs-beebtracker2.html) Beeb Tracker Volume 2 compilation to the Acorn Electron | N/A |
 | Beeb Tracker Volume 3 | [![Green Hill Zone](http://i3.ytimg.com/vi/DtzKnkznlQI/hqdefault.jpg)](https://youtu.be/DtzKnkznlQI) | Conversion of the [BitShifters](https://bitshifters.github.io/posts/prods/bs-beebtracker3.html) Beeb Tracker Volume 3 compilation to the Acorn Electron | N/A |
 | Ben Daglish - Disc 1 | [![Last Ninja](http://i3.ytimg.com/vi/kAjpJgndCxU/hqdefault.jpg)](https://youtu.be/kAjpJgndCxU) [![Thing Bounces Back](http://i3.ytimg.com/vi/SzCBTqwQcLc/hqdefault.jpg)](https://youtu.be/SzCBTqwQcLc)| Conversions of Ben Daglish SID tunes | N/A |
 | David Whittaker - Disk 1 | [![Glider Rider](http://i3.ytimg.com/vi/9YM4m3VhlrE/hqdefault.jpg)](https://m.youtube.com/watch?v=9YM4m3VhlrE) | Conversions of David Whittaker tunes from various platforms | N/A |
