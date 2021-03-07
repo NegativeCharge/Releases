@@ -1,4 +1,4 @@
-# ElkPlayer Album Releases
+# Elk Player Album Releases
 
 | Album        | Video           | Comments | Link    |
 | ---------- |:-------------:| ------------ |-----:|
@@ -9,4 +9,5 @@
 | David Whittaker - Disk 1 | [![Glider Rider](http://i3.ytimg.com/vi/9YM4m3VhlrE/hqdefault.jpg)](https://m.youtube.com/watch?v=9YM4m3VhlrE) | Conversions of David Whittaker tunes from various platforms | [Download](https://github.com/NegativeCharge/Releases/raw/main/Discs/DavidWhittaker1.ssd) |
 | Martin Galway - Disk 1 | [![NeverEnding Story](http://i3.ytimg.com/vi/FvpVlcdDsOs/hqdefault.jpg)](https://m.youtube.com/watch?v=FvpVlcdDsOs) | Conversions of Martin Galway (@martin_galway) SID tunes| [Download](https://github.com/NegativeCharge/Releases/raw/main/Discs/MartinGalway1.ssd) |
 | Rob Hubbard - Disk 1 | [![Commando](http://i3.ytimg.com/vi/Q3oeP5BKuZs/hqdefault.jpg)](https://m.youtube.com/watch?v=Q3oeP5BKuZs) | Conversions of Rob Hubbard SID tunes | [Download](https://github.com/NegativeCharge/Releases/raw/main/Discs/RobHubbard1.ssd) |
-| System Beeps by Shiru | [![System Beeps](http://i3.ytimg.com/vi/KzKFr6lFIiA/hqdefault.jpg)](https://youtu.be/KzKFr6lFIiA)| Conversion of the System Beeps album by Shiru to the Acorn Electron | Coming Soon |
+| System Beeps by Shiru | [![System Beeps](http://i3.ytimg.com/vi/KzKFr6lFIiA/hqdefault.jpg)](https://youtu.be/KzKFr6lFIiA)| Conversion of the System Beeps album by Shiru to the Acorn Electron | [Download](https://github.com/NegativeCharge/Releases/raw/main/Discs/SystemBeeps1.ssd) |
+| The Secret of Monkey Island Theme | [![Monkey Island](http://i3.ytimg.com/vi/js-YdPOtYtw/hqdefault.jpg)](https://youtu.be/js-YdPOtYtw) | Conversion of the Secret of Monkey Island PC Beeper theme | Coming Soon |
